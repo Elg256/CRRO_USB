@@ -7,6 +7,7 @@ Only the "encrypted_data" folder is use for storing encrypted data, all others f
 The encryption and decryption use the 'cryptography' library using 'Fernet' (AES-128).
 
 
-![image](https://github.com/user-attachments/assets/6ac24479-70af-4ce3-8375-3327e5a79e7e)
+![image](https://github.com/user-attachments/assets/0b7257cc-8622-49f9-a128-942d97fc4284)
+
 
 
