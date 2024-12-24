@@ -5,5 +5,6 @@ You can directly drag and drop files, and the program encrypt or decrypt it with
 Only the "encrypted_data" folder is use for storing encrypted data, all others folders of the usb stick can be use as normal.
 
 
-![CRRO_USB_example](https://github.com/user-attachments/assets/1c185dd2-7632-4909-b355-68e85d489a89)
+![image](https://github.com/user-attachments/assets/6ac24479-70af-4ce3-8375-3327e5a79e7e)
+
 
